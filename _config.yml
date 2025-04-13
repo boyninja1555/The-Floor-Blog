@@ -1,0 +1,11 @@
+title: The Floor Blog
+email: flappyfloorg@gmail.com
+description: >-
+  I blog on random crap! Who doesn't love random, brain-rotted content? You
+  scroll on TikTok!
+baseurl: /
+url: ''
+github_username: boyninja1555
+theme: minima
+plugins:
+  - jekyll-feed
